@@ -52,7 +52,7 @@ OK (4 tests, 50 assertions)
 ```
 
 
-###PHPUnit
+### PHPUnit
 To run the Symfony2 test suite, install PHPUnit 3.5.11 or later:
 
 ```bash

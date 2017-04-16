@@ -1,4 +1,4 @@
-#This Bundle is no longer maintained.  
+# This Bundle is no longer maintained.  
 Over the years, the structure of Symfony forms has evolved and this bundle has tried to follow its evolution without changing its own structure. However, this old structure is not adapted to new versions of Symfony.  
 Instead of starting from scratch and generate code similar to another Bundle, I'd rather advise you to use this other Bundle.  
 
@@ -14,7 +14,7 @@ It was a real pleasure to offer this kind of bundle for early versions of Symfon
 
 ---
 
-##Getting Started With JsFormValidationBundle
+## Getting Started With JsFormValidationBundle
 
 **Version**: 2.1
 [![Build Status](https://secure.travis-ci.org/Abhoryo/APYJsFormValidationBundle.png?branch=master)](http://travis-ci.org/Abhoryo/APYJsFormValidationBundle)
